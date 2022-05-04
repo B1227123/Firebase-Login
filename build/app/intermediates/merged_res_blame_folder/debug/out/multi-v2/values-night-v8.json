@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/felipecourtois/app_firebase/firebase_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/abelardo/Documents/Firebase-Login/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/felipecourtois/app_firebase/firebase_app/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/abelardo/Documents/Firebase-Login/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
