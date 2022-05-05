@@ -23,13 +23,13 @@
                     }
                 },
                 {
-                    "source": "/home/abelardo/.gradle/caches/transforms-2/files-2.1/0c11252d9d87559920ca1b1a0bcd2692/jetified-play-services-basement-17.1.0/res/values/values.xml",
+                    "source": "/home/abelardo/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "4,7",
                         "startColumns": "0,0",
-                        "startOffsets": "238,401",
+                        "startOffsets": "243,406",
                         "endColumns": "63,166",
-                        "endOffsets": "301,567"
+                        "endOffsets": "306,572"
                     },
                     "to": {
                         "startLines": "106,116",
